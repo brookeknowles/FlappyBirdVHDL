@@ -5,3 +5,10 @@ The game was made to be run on an Altera DE0 Board equipped with the Cyclone III
 
 - Created for a COMPSYS305 assignment at UOA
 - Grade: A+ 
+
+
+## Screenshots
+
+|Start Screen                               |  Main Gameplay Screen                     | Pause Screen                             | 
+|:-----------------------------------------:|:-----------------------------------------:|:----------------------------------------:| 
+|![Screenshot](/screenshots/start.jpg)      |  ![Screenshot](/screenshots/game.jpg)     | ![Screenshot](/screenshots/pause.jpg)    |
